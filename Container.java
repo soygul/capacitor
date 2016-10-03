@@ -1,4 +1,4 @@
-package com.nbusy.capacitor;
+package com.soygul.capacitor;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
