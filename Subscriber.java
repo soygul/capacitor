@@ -1,4 +1,4 @@
-package com.nbusy.capacitor;
+package com.soygul.capacitor;
 
 /**
  * State mutation event subscriber.
